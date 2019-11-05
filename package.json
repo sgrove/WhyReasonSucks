@@ -1,0 +1,23 @@
+{
+  "name": "jetset",
+  "description": "JetSet - Single Page Prelaunch Template Built with Gatsby.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.33",
+    "gatsby-plugin-react-helmet": "^3.0.2",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
+    "gatsby-source-filesystem": "^2.0.8",
+    "gatsby-transformer-json": "^2.1.5",
+    "gatsby-transformer-remark": "^2.1.12",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1",
+    "react-helmet": "^5.2.0",
+    "tachyons": "^4.11.1"
+  }
+}
